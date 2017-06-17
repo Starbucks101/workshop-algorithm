@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Button } from 'react-bootstrap';
+
+Get the br
 
 
 class Step extends Component {
@@ -8,11 +8,11 @@ class Step extends Component {
 
     this.state = {
       steps: [
-        'step1',
-        'step2',
-        'step3',
-        'step4',
-        'step5'
+        'Get your bread,jelly,butter knife,and peanut butter'
+       ',Get knife dip it in the jelly smear it on the bread 
+      ',Get the knife again and dip it in the jelly smear it on the brea
+        P ut the two breads thogther 
+        You a pb and j
       ],
       index: 0,
       button: 'next'
